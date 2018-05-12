@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39234'
     url: http://www.gutenberg.org/2009/agents/39234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38074#Victor-Hugo-son-oeuvre-po-tique
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2011-11-21'
 gutenberg_type: Text
