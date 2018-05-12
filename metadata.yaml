@@ -1,0 +1,28 @@
+_repo: Victor-Hugo-son-oeuvre-po-tique_38074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dupuy, Ernest
+    birthdate: 1849
+    deathdate: 1918
+    gutenberg_agent_id: '39234'
+    url: http://www.gutenberg.org/2009/agents/39234
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38074'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hugo, Victor, 1802-1885 -- Criticism and interpretation'
+- !lcc 'PQ'
+- !lcsh 'Hugo, Victor, 1802-1885'
+title: Victor Hugo, son oeuvre poétique
+url: http://www.gutenberg.org/ebooks/38074
